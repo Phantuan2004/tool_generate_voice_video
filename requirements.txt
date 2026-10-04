@@ -25,7 +25,6 @@ packaging==26.3
 pillow==11.3.0
 proglog==0.1.12
 protobuf==7.36.2
-py-hot-reload==1.0.6
 PyQt6==6.11.0
 PyQt6-Qt6==6.11.2
 PyQt6_sip==13.12.0
